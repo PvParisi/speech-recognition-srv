@@ -1,0 +1,22 @@
+{
+  "name": "speech-recognition-srv",
+  "version": "1.0.0",
+  "description": "server for the speech recognition app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PvParisi/speech-recognition-srv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "6.13.1"
+  },
+  "bugs": {
+    "url": "https://github.com/PvParisi/speech-recognition-srv/issues"
+  },
+  "homepage": "https://github.com/PvParisi/speech-recognition-srv#readme"
+}
